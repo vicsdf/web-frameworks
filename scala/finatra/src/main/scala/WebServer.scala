@@ -17,10 +17,11 @@ class WebServer extends HttpServer {
       .withCompressionLevel(0)
       .withStatsReceiver(NullStatsReceiver)
       .withStack(nilStack[Request, Response])
-  }  
+  }
 
   override def configureHttp(router: HttpRouter) = {
     router.
       add(new AController)
   }
 }
+
