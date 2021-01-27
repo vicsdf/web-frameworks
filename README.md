@@ -127,7 +127,7 @@ make -f ${FRAMEWORK}/.Makefile collect
 | 31 | crystal (0.35)| [kemal](https://kemalcr.com) (0.27) | 92 472.38 | 111 869.50 | 111 382.76 |
 | 32 | crystal (0.35)| [amber](https://amberframework.org) (0.35) | 89 004.19 | 105 895.82 | 105 380.70 |
 | 33 | php (7.4)| [swoole-process-coroutine](https://github.com/swoole/swoole-src) (4.6) | 88 827.54 | 126 018.57 | 137 100.44 |
-| 34 | java (11)| [quarkus](https://quarkus.io) (1.11) | 86 334.47 | 105 028.79 | 107 973.49 |
+| 34 | java (11)| [quarkus](https://quarkus.io) (1.11) | 86 897.92 | 105 604.16 | 108 452.17 |
 | 35 | php (7.4)| [simps](https://github.com/simple-swoole/simps) (1.0) | 84 790.18 | 107 102.87 | 113 462.53 |
 | 36 | crystal (0.35)| [athena](https://github.com/athena-framework/athena) (0.12) | 83 167.28 | 93 706.89 | 89 079.25 |
 | 37 | scala (2.13)| [akkahttp](https://akka.io) (10.2) | 82 236.16 | 94 492.64 | 92 946.60 |
