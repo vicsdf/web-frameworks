@@ -127,6 +127,8 @@ java:
     - stevehu
   jooby:
     - jknack
+  quarkus:
+    - geoand
 kotlin:
   kooby:
     - jknack
